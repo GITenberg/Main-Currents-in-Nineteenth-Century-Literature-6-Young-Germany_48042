@@ -1,9 +1,13 @@
 _repo: Main-Currents-in-Nineteenth-Century-Literature-6-Young-Germany_48042
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Morison, Mary
     gutenberg_agent_id: '36320'
     url: http://www.gutenberg.org/2009/agents/36320
+covers:
+- cover_type: archival
+  image_path: 48042-h/images/bran06_cover.jpg
 creator:
   author:
     agent_name: Brandes, Georg
@@ -17,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2674
     wikipedia: http://en.wikipedia.org/wiki/Georg_Brandes
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48042#Main-Currents-in-Nineteenth-Century-Literature-6-Young-Germany
 gutenberg_issued: '2015-01-22'
 gutenberg_type: Text
 identifiers:
